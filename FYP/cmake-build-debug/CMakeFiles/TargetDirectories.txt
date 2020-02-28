@@ -1,0 +1,3 @@
+/home/eriri/CLionProjects/FYP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eriri/CLionProjects/FYP/cmake-build-debug/CMakeFiles/FYP.dir
+/home/eriri/CLionProjects/FYP/cmake-build-debug/CMakeFiles/edit_cache.dir
